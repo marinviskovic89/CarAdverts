@@ -1,0 +1,3 @@
+- Run CarAdvertsApplication
+- Run pgAdmin 4
+- Enter the password for the user 'postgres' to connect the server - "PostgreSQL 16"
